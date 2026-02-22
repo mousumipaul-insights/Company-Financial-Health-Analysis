@@ -1,4 +1,4 @@
-# 📊 Company Financial Health Analysis – DCF & Ratio Analysis
+# 📊 Company Financial Health Analysis - DCF & Ratio Analysis
 
 **Author:** Mousumi Paul  
 **Project Type:** Personal Finance Project  
