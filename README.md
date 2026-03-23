@@ -130,7 +130,5 @@ The full management-style report is available in [`reports/Financial_Health_Repo
 
 ---
 
-## 📬 Contact
 
-**Mousumi Paul**  
-[LinkedIn](https://linkedin.com/in/mousumi-paul) | [GitHub](https://github.com/mousumi-paul)
+
